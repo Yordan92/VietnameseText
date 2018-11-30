@@ -1,4 +1,5 @@
 
+Emacs Theme Editor – Elbinario [community] [report: abuse clone cp bestof] http://binario5yvaed5ie.onion/2015/03/19/emacs-theme-editor/ Last Response: Mon, 05 Nov 2018 21:18:43 +0000, Ping (sec): 5.14 (deftheme night-burner "DOCSTRING for night-burner") (custom-theme-set-faces 'night-burner '(default ((t (:foreground "#a49f81" :background "#000000" )))) '(cursor ((t (:background "#fdf4c1" ))))...
 100% 		 #ffffff
 95% 		 #ffe6e6
 90% 		 #ffcccc
